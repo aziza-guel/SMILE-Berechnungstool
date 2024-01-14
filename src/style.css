@@ -1,0 +1,190 @@
+/* General Layout Styles */
+.container {
+    font-family: 'Arial', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #c3ddf3; /* Light blue background for the container */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    color: #141450; /* Dark blue font color */
+    text-align: center;
+  }
+ 
+  .header {
+    background-color: white; /* Dark blue background for header */
+    color: #141450; /* Bright yellow-green color for header font */
+    padding: 2px;
+    text-align: center;
+    border-radius: 5px 5px 0 0;
+  }
+ 
+  .logo {
+    max-height: 50px;
+    margin-bottom: 10px;
+    margin-right: 1500px;
+  }
+ 
+  /* Form Section Styles */
+  .form-section {
+    width: calc(100% - 30px);
+    background-color: #e9e9e9; /* Lighter blue for form sections */
+    padding: 15px;
+    border-radius: 5px;
+  }
+ 
+  .subtitle {
+    color: #141450; /* Dark blue color for subtitles */
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+ 
+  .form-section:last-of-type {
+    /* Maintain bottom margin for the last form-section before Stromale Restdicke */
+    margin-bottom: 10px;
+  }
+ 
+  .output-section {
+    /* Make sure there is no top margin */
+    margin-top: 0;
+    /* Other styles remain the same */
+  }
+  select, input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+ 
+  .result-display, .bordered-value {
+    background-color: #f9f9f9;
+    padding: 8px;
+    width: 750px;
+    border-radius: 4px;
+  }
+ 
+  /* Buttons */
+  button {
+    background-color: #d4e400; /* Bright yellow-green for button background */
+    color: #141450; /* Dark blue for button text */
+    padding: 20px 20px; /* Smaller padding for a shorter button */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: auto; /* Auto width for a narrower button */
+    font-size: 1.3em; /* Smaller font size if needed */
+    font-weight: bold; /* Make the font weight bold */
+    display: block; /* Changed to block to center the button */
+    margin: 20px auto 20px; /* Top margin 20px, auto margins on left and right, bottom margin 50px */
+  }
+  button:hover {
+    background-color: #d4e400; /* Slightly darker yellow-green for hover */
+  }
+ 
+  /* Output Section Styles */
+  .output-section {
+    background-color: #e9e9e9;
+    padding: 15px;
+    border-radius: 4px;
+  }
+ 
+  .result-label, label {
+    display: block;
+    width: calc(100% - 50%);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #141450; /* Dark blue color */
+    text-align: left; /* Align to left */
+    white-space: nowrap;
+  }
+  .minimum-alert {
+    color: red;
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+ 
+  .error-message {
+    color: red;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+  }
+ 
+  /* Footer Styles */
+  .app-footer {
+    bottom: 0;
+    left: 0;
+    text-align: left;
+    padding: 10px;
+    font-style: italic;;
+    background-color: #c3ddf3;
+    color: #060700;
+    border-radius: 0 0 5px 5px;
+  }
+ 
+  .app-footer-two {
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    padding: 10px;
+    background-color: #c3ddf3;
+    color: #060700;
+    border-radius: 0 0 5px 5px;
+  }
+ 
+  .result-red {
+    color: red;
+  }
+  .aligned-label {
+    display: block;
+    width: calc(100% - 30%);
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #141450; /* Dark blue color */
+    text-align: left; /* Align to left as per the label style */
+  }
+ 
+  .access-container {
+    font-family: 'Arial', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #c3ddf3;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    color: #141450;
+    text-align: center;
+  }
+ 
+  .access-form {
+    background-color: #e9e9e9;
+    padding: 15px;
+    border-radius: 5px;
+  }
+ 
+  .access-input {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+ 
+  .access-button {
+    background-color: #d4e400;
+    color: #141450;
+    padding: 15px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+ 
+  .access-button:hover {
+    background-color: #c2cc00;
+  }

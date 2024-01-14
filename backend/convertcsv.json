@@ -1,0 +1,4160 @@
+[
+    {
+      "id": 1,
+      "sphere": 0,
+      "cylinder": 0,
+      "sum": "n/a"
+    },
+    {
+      "id": 2,
+      "sphere": -0.25,
+      "cylinder": 0,
+      "sum": "n/a"
+    },
+    {
+      "id": 3,
+      "sphere": -0.5,
+      "cylinder": 0,
+      "sum": "n/a"
+    },
+    {
+      "id": 4,
+      "sphere": -0.75,
+      "cylinder": 0,
+      "sum": "27"
+    },
+    {
+      "id": 5,
+      "sphere": -1,
+      "cylinder": 0,
+      "sum": "30"
+    },
+    {
+      "id": 6,
+      "sphere": -1.25,
+      "cylinder": 0,
+      "sum": "34"
+    },
+    {
+      "id": 7,
+      "sphere": -1.5,
+      "cylinder": 0,
+      "sum": "38"
+    },
+    {
+      "id": 8,
+      "sphere": -1.75,
+      "cylinder": 0,
+      "sum": "41"
+    },
+    {
+      "id": 9,
+      "sphere": -2,
+      "cylinder": 0,
+      "sum": "45"
+    },
+    {
+      "id": 10,
+      "sphere": -2.25,
+      "cylinder": 0,
+      "sum": "49"
+    },
+    {
+      "id": 11,
+      "sphere": -2.5,
+      "cylinder": 0,
+      "sum": "52"
+    },
+    {
+      "id": 12,
+      "sphere": -2.75,
+      "cylinder": 0,
+      "sum": "56"
+    },
+    {
+      "id": 13,
+      "sphere": -3,
+      "cylinder": 0,
+      "sum": "59"
+    },
+    {
+      "id": 14,
+      "sphere": -3.25,
+      "cylinder": 0,
+      "sum": "63"
+    },
+    {
+      "id": 15,
+      "sphere": -3.5,
+      "cylinder": 0,
+      "sum": "66"
+    },
+    {
+      "id": 16,
+      "sphere": -3.75,
+      "cylinder": 0,
+      "sum": "70"
+    },
+    {
+      "id": 17,
+      "sphere": -4,
+      "cylinder": 0,
+      "sum": "73"
+    },
+    {
+      "id": 18,
+      "sphere": -4.25,
+      "cylinder": 0,
+      "sum": "77"
+    },
+    {
+      "id": 19,
+      "sphere": -4.5,
+      "cylinder": 0,
+      "sum": "80"
+    },
+    {
+      "id": 20,
+      "sphere": -4.75,
+      "cylinder": 0,
+      "sum": "84"
+    },
+    {
+      "id": 21,
+      "sphere": -5,
+      "cylinder": 0,
+      "sum": "87"
+    },
+    {
+      "id": 22,
+      "sphere": -5.25,
+      "cylinder": 0,
+      "sum": "90"
+    },
+    {
+      "id": 23,
+      "sphere": -5.5,
+      "cylinder": 0,
+      "sum": "93"
+    },
+    {
+      "id": 24,
+      "sphere": -5.75,
+      "cylinder": 0,
+      "sum": "97"
+    },
+    {
+      "id": 25,
+      "sphere": -6,
+      "cylinder": 0,
+      "sum": "100"
+    },
+    {
+      "id": 26,
+      "sphere": -6.25,
+      "cylinder": 0,
+      "sum": "103"
+    },
+    {
+      "id": 27,
+      "sphere": -6.5,
+      "cylinder": 0,
+      "sum": "106"
+    },
+    {
+      "id": 28,
+      "sphere": -6.75,
+      "cylinder": 0,
+      "sum": "110"
+    },
+    {
+      "id": 29,
+      "sphere": -7,
+      "cylinder": 0,
+      "sum": "113"
+    },
+    {
+      "id": 30,
+      "sphere": -7.25,
+      "cylinder": 0,
+      "sum": "116"
+    },
+    {
+      "id": 31,
+      "sphere": -7.5,
+      "cylinder": 0,
+      "sum": "119"
+    },
+    {
+      "id": 32,
+      "sphere": -7.75,
+      "cylinder": 0,
+      "sum": "122"
+    },
+    {
+      "id": 33,
+      "sphere": -8,
+      "cylinder": 0,
+      "sum": "125"
+    },
+    {
+      "id": 34,
+      "sphere": 0,
+      "cylinder": -0.25,
+      "sum": "n/a"
+    },
+    {
+      "id": 35,
+      "sphere": -0.25,
+      "cylinder": -0.25,
+      "sum": "n/a"
+    },
+    {
+      "id": 36,
+      "sphere": -0.5,
+      "cylinder": -0.25,
+      "sum": "n/a"
+    },
+    {
+      "id": 37,
+      "sphere": -0.75,
+      "cylinder": -0.25,
+      "sum": "31"
+    },
+    {
+      "id": 38,
+      "sphere": -1,
+      "cylinder": -0.25,
+      "sum": "35"
+    },
+    {
+      "id": 39,
+      "sphere": -1.25,
+      "cylinder": -0.25,
+      "sum": "38"
+    },
+    {
+      "id": 40,
+      "sphere": -1.5,
+      "cylinder": -0.25,
+      "sum": "42"
+    },
+    {
+      "id": 41,
+      "sphere": -1.75,
+      "cylinder": -0.25,
+      "sum": "46"
+    },
+    {
+      "id": 42,
+      "sphere": -2,
+      "cylinder": -0.25,
+      "sum": "50"
+    },
+    {
+      "id": 43,
+      "sphere": -2.25,
+      "cylinder": -0.25,
+      "sum": "54"
+    },
+    {
+      "id": 44,
+      "sphere": -2.5,
+      "cylinder": -0.25,
+      "sum": "57"
+    },
+    {
+      "id": 45,
+      "sphere": -2.75,
+      "cylinder": -0.25,
+      "sum": "61"
+    },
+    {
+      "id": 46,
+      "sphere": -3,
+      "cylinder": -0.25,
+      "sum": "65"
+    },
+    {
+      "id": 47,
+      "sphere": -3.25,
+      "cylinder": -0.25,
+      "sum": "68"
+    },
+    {
+      "id": 48,
+      "sphere": -3.5,
+      "cylinder": -0.25,
+      "sum": "72"
+    },
+    {
+      "id": 49,
+      "sphere": -3.75,
+      "cylinder": -0.25,
+      "sum": "75"
+    },
+    {
+      "id": 50,
+      "sphere": -4,
+      "cylinder": -0.25,
+      "sum": "79"
+    },
+    {
+      "id": 51,
+      "sphere": -4.25,
+      "cylinder": -0.25,
+      "sum": "82"
+    },
+    {
+      "id": 52,
+      "sphere": -4.5,
+      "cylinder": -0.25,
+      "sum": "86"
+    },
+    {
+      "id": 53,
+      "sphere": -4.75,
+      "cylinder": -0.25,
+      "sum": "89"
+    },
+    {
+      "id": 54,
+      "sphere": -5,
+      "cylinder": -0.25,
+      "sum": "93"
+    },
+    {
+      "id": 55,
+      "sphere": -5.25,
+      "cylinder": -0.25,
+      "sum": "96"
+    },
+    {
+      "id": 56,
+      "sphere": -5.5,
+      "cylinder": -0.25,
+      "sum": "100"
+    },
+    {
+      "id": 57,
+      "sphere": -5.75,
+      "cylinder": -0.25,
+      "sum": "103"
+    },
+    {
+      "id": 58,
+      "sphere": -6,
+      "cylinder": -0.25,
+      "sum": "106"
+    },
+    {
+      "id": 59,
+      "sphere": -6.25,
+      "cylinder": -0.25,
+      "sum": "110"
+    },
+    {
+      "id": 60,
+      "sphere": -6.5,
+      "cylinder": -0.25,
+      "sum": "113"
+    },
+    {
+      "id": 61,
+      "sphere": -6.75,
+      "cylinder": -0.25,
+      "sum": "116"
+    },
+    {
+      "id": 62,
+      "sphere": -7,
+      "cylinder": -0.25,
+      "sum": "120"
+    },
+    {
+      "id": 63,
+      "sphere": -7.25,
+      "cylinder": -0.25,
+      "sum": "123"
+    },
+    {
+      "id": 64,
+      "sphere": -7.5,
+      "cylinder": -0.25,
+      "sum": "126"
+    },
+    {
+      "id": 65,
+      "sphere": -7.75,
+      "cylinder": -0.25,
+      "sum": "129"
+    },
+    {
+      "id": 66,
+      "sphere": -8,
+      "cylinder": -0.25,
+      "sum": "132"
+    },
+    {
+      "id": 67,
+      "sphere": 0,
+      "cylinder": -0.5,
+      "sum": "n/a"
+    },
+    {
+      "id": 68,
+      "sphere": -0.25,
+      "cylinder": -0.5,
+      "sum": "n/a"
+    },
+    {
+      "id": 69,
+      "sphere": -0.5,
+      "cylinder": -0.5,
+      "sum": "30"
+    },
+    {
+      "id": 70,
+      "sphere": -0.75,
+      "cylinder": -0.5,
+      "sum": "34"
+    },
+    {
+      "id": 71,
+      "sphere": -1,
+      "cylinder": -0.5,
+      "sum": "38"
+    },
+    {
+      "id": 72,
+      "sphere": -1.25,
+      "cylinder": -0.5,
+      "sum": "42"
+    },
+    {
+      "id": 73,
+      "sphere": -1.5,
+      "cylinder": -0.5,
+      "sum": "46"
+    },
+    {
+      "id": 74,
+      "sphere": -1.75,
+      "cylinder": -0.5,
+      "sum": "50"
+    },
+    {
+      "id": 75,
+      "sphere": -2,
+      "cylinder": -0.5,
+      "sum": "53"
+    },
+    {
+      "id": 76,
+      "sphere": -2.25,
+      "cylinder": -0.5,
+      "sum": "57"
+    },
+    {
+      "id": 77,
+      "sphere": -2.5,
+      "cylinder": -0.5,
+      "sum": "61"
+    },
+    {
+      "id": 78,
+      "sphere": -2.75,
+      "cylinder": -0.5,
+      "sum": "64"
+    },
+    {
+      "id": 79,
+      "sphere": -3,
+      "cylinder": -0.5,
+      "sum": "68"
+    },
+    {
+      "id": 80,
+      "sphere": -3.25,
+      "cylinder": -0.5,
+      "sum": "72"
+    },
+    {
+      "id": 81,
+      "sphere": -3.5,
+      "cylinder": -0.5,
+      "sum": "75"
+    },
+    {
+      "id": 82,
+      "sphere": -3.75,
+      "cylinder": -0.5,
+      "sum": "79"
+    },
+    {
+      "id": 83,
+      "sphere": -4,
+      "cylinder": -0.5,
+      "sum": "82"
+    },
+    {
+      "id": 84,
+      "sphere": -4.25,
+      "cylinder": -0.5,
+      "sum": "86"
+    },
+    {
+      "id": 85,
+      "sphere": -4.5,
+      "cylinder": -0.5,
+      "sum": "89"
+    },
+    {
+      "id": 86,
+      "sphere": -4.75,
+      "cylinder": -0.5,
+      "sum": "93"
+    },
+    {
+      "id": 87,
+      "sphere": -5,
+      "cylinder": -0.5,
+      "sum": "96"
+    },
+    {
+      "id": 88,
+      "sphere": -5.25,
+      "cylinder": -0.5,
+      "sum": "100"
+    },
+    {
+      "id": 89,
+      "sphere": -5.5,
+      "cylinder": -0.5,
+      "sum": "103"
+    },
+    {
+      "id": 90,
+      "sphere": -5.75,
+      "cylinder": -0.5,
+      "sum": "106"
+    },
+    {
+      "id": 91,
+      "sphere": -6,
+      "cylinder": -0.5,
+      "sum": "110"
+    },
+    {
+      "id": 92,
+      "sphere": -6.25,
+      "cylinder": -0.5,
+      "sum": "113"
+    },
+    {
+      "id": 93,
+      "sphere": -6.5,
+      "cylinder": -0.5,
+      "sum": "116"
+    },
+    {
+      "id": 94,
+      "sphere": -6.75,
+      "cylinder": -0.5,
+      "sum": "120"
+    },
+    {
+      "id": 95,
+      "sphere": -7,
+      "cylinder": -0.5,
+      "sum": "123"
+    },
+    {
+      "id": 96,
+      "sphere": -7.25,
+      "cylinder": -0.5,
+      "sum": "126"
+    },
+    {
+      "id": 97,
+      "sphere": -7.5,
+      "cylinder": -0.5,
+      "sum": "129"
+    },
+    {
+      "id": 98,
+      "sphere": -7.75,
+      "cylinder": -0.5,
+      "sum": "132"
+    },
+    {
+      "id": 99,
+      "sphere": -8,
+      "cylinder": -0.5,
+      "sum": "136"
+    },
+    {
+      "id": 100,
+      "sphere": 0,
+      "cylinder": -0.75,
+      "sum": "n/a"
+    },
+    {
+      "id": 101,
+      "sphere": -0.25,
+      "cylinder": -0.75,
+      "sum": "n/a"
+    },
+    {
+      "id": 102,
+      "sphere": -0.5,
+      "cylinder": -0.75,
+      "sum": "34"
+    },
+    {
+      "id": 103,
+      "sphere": -0.75,
+      "cylinder": -0.75,
+      "sum": "38"
+    },
+    {
+      "id": 104,
+      "sphere": -1,
+      "cylinder": -0.75,
+      "sum": "42"
+    },
+    {
+      "id": 105,
+      "sphere": -1.25,
+      "cylinder": -0.75,
+      "sum": "46"
+    },
+    {
+      "id": 106,
+      "sphere": -1.5,
+      "cylinder": -0.75,
+      "sum": "49"
+    },
+    {
+      "id": 107,
+      "sphere": -1.75,
+      "cylinder": -0.75,
+      "sum": "53"
+    },
+    {
+      "id": 108,
+      "sphere": -2,
+      "cylinder": -0.75,
+      "sum": "57"
+    },
+    {
+      "id": 109,
+      "sphere": -2.25,
+      "cylinder": -0.75,
+      "sum": "61"
+    },
+    {
+      "id": 110,
+      "sphere": -2.5,
+      "cylinder": -0.75,
+      "sum": "64"
+    },
+    {
+      "id": 111,
+      "sphere": -2.75,
+      "cylinder": -0.75,
+      "sum": "68"
+    },
+    {
+      "id": 112,
+      "sphere": -3,
+      "cylinder": -0.75,
+      "sum": "71"
+    },
+    {
+      "id": 113,
+      "sphere": -3.25,
+      "cylinder": -0.75,
+      "sum": "75"
+    },
+    {
+      "id": 114,
+      "sphere": -3.5,
+      "cylinder": -0.75,
+      "sum": "79"
+    },
+    {
+      "id": 115,
+      "sphere": -3.75,
+      "cylinder": -0.75,
+      "sum": "82"
+    },
+    {
+      "id": 116,
+      "sphere": -4,
+      "cylinder": -0.75,
+      "sum": "86"
+    },
+    {
+      "id": 117,
+      "sphere": -4.25,
+      "cylinder": -0.75,
+      "sum": "89"
+    },
+    {
+      "id": 118,
+      "sphere": -4.5,
+      "cylinder": -0.75,
+      "sum": "93"
+    },
+    {
+      "id": 119,
+      "sphere": -4.75,
+      "cylinder": -0.75,
+      "sum": "96"
+    },
+    {
+      "id": 120,
+      "sphere": -5,
+      "cylinder": -0.75,
+      "sum": "99"
+    },
+    {
+      "id": 121,
+      "sphere": -5.25,
+      "cylinder": -0.75,
+      "sum": "103"
+    },
+    {
+      "id": 122,
+      "sphere": -5.5,
+      "cylinder": -0.75,
+      "sum": "106"
+    },
+    {
+      "id": 123,
+      "sphere": -5.75,
+      "cylinder": -0.75,
+      "sum": "109"
+    },
+    {
+      "id": 124,
+      "sphere": -6,
+      "cylinder": -0.75,
+      "sum": "113"
+    },
+    {
+      "id": 125,
+      "sphere": -6.25,
+      "cylinder": -0.75,
+      "sum": "116"
+    },
+    {
+      "id": 126,
+      "sphere": -6.5,
+      "cylinder": -0.75,
+      "sum": "119"
+    },
+    {
+      "id": 127,
+      "sphere": -6.75,
+      "cylinder": -0.75,
+      "sum": "123"
+    },
+    {
+      "id": 128,
+      "sphere": -7,
+      "cylinder": -0.75,
+      "sum": "126"
+    },
+    {
+      "id": 129,
+      "sphere": -7.25,
+      "cylinder": -0.75,
+      "sum": "129"
+    },
+    {
+      "id": 130,
+      "sphere": -7.5,
+      "cylinder": -0.75,
+      "sum": "132"
+    },
+    {
+      "id": 131,
+      "sphere": -7.75,
+      "cylinder": -0.75,
+      "sum": "135"
+    },
+    {
+      "id": 132,
+      "sphere": -8,
+      "cylinder": -0.75,
+      "sum": "139"
+    },
+    {
+      "id": 133,
+      "sphere": 0,
+      "cylinder": -1,
+      "sum": "n/a"
+    },
+    {
+      "id": 134,
+      "sphere": -0.25,
+      "cylinder": -1,
+      "sum": "34"
+    },
+    {
+      "id": 135,
+      "sphere": -0.5,
+      "cylinder": -1,
+      "sum": "38"
+    },
+    {
+      "id": 136,
+      "sphere": -0.75,
+      "cylinder": -1,
+      "sum": "42"
+    },
+    {
+      "id": 137,
+      "sphere": -1,
+      "cylinder": -1,
+      "sum": "45"
+    },
+    {
+      "id": 138,
+      "sphere": -1.25,
+      "cylinder": -1,
+      "sum": "49"
+    },
+    {
+      "id": 139,
+      "sphere": -1.5,
+      "cylinder": -1,
+      "sum": "53"
+    },
+    {
+      "id": 140,
+      "sphere": -1.75,
+      "cylinder": -1,
+      "sum": "57"
+    },
+    {
+      "id": 141,
+      "sphere": -2,
+      "cylinder": -1,
+      "sum": "60"
+    },
+    {
+      "id": 142,
+      "sphere": -2.25,
+      "cylinder": -1,
+      "sum": "64"
+    },
+    {
+      "id": 143,
+      "sphere": -2.5,
+      "cylinder": -1,
+      "sum": "68"
+    },
+    {
+      "id": 144,
+      "sphere": -2.75,
+      "cylinder": -1,
+      "sum": "71"
+    },
+    {
+      "id": 145,
+      "sphere": -3,
+      "cylinder": -1,
+      "sum": "75"
+    },
+    {
+      "id": 146,
+      "sphere": -3.25,
+      "cylinder": -1,
+      "sum": "78"
+    },
+    {
+      "id": 147,
+      "sphere": -3.5,
+      "cylinder": -1,
+      "sum": "82"
+    },
+    {
+      "id": 148,
+      "sphere": -3.75,
+      "cylinder": -1,
+      "sum": "85"
+    },
+    {
+      "id": 149,
+      "sphere": -4,
+      "cylinder": -1,
+      "sum": "89"
+    },
+    {
+      "id": 150,
+      "sphere": -4.25,
+      "cylinder": -1,
+      "sum": "92"
+    },
+    {
+      "id": 151,
+      "sphere": -4.5,
+      "cylinder": -1,
+      "sum": "96"
+    },
+    {
+      "id": 152,
+      "sphere": -4.75,
+      "cylinder": -1,
+      "sum": "99"
+    },
+    {
+      "id": 153,
+      "sphere": -5,
+      "cylinder": -1,
+      "sum": "103"
+    },
+    {
+      "id": 154,
+      "sphere": -5.25,
+      "cylinder": -1,
+      "sum": "106"
+    },
+    {
+      "id": 155,
+      "sphere": -5.5,
+      "cylinder": -1,
+      "sum": "109"
+    },
+    {
+      "id": 156,
+      "sphere": -5.75,
+      "cylinder": -1,
+      "sum": "113"
+    },
+    {
+      "id": 157,
+      "sphere": -6,
+      "cylinder": -1,
+      "sum": "116"
+    },
+    {
+      "id": 158,
+      "sphere": -6.25,
+      "cylinder": -1,
+      "sum": "119"
+    },
+    {
+      "id": 159,
+      "sphere": -6.5,
+      "cylinder": -1,
+      "sum": "122"
+    },
+    {
+      "id": 160,
+      "sphere": -6.75,
+      "cylinder": -1,
+      "sum": "126"
+    },
+    {
+      "id": 161,
+      "sphere": -7,
+      "cylinder": -1,
+      "sum": "129"
+    },
+    {
+      "id": 162,
+      "sphere": -7.25,
+      "cylinder": -1,
+      "sum": "132"
+    },
+    {
+      "id": 163,
+      "sphere": -7.5,
+      "cylinder": -1,
+      "sum": "135"
+    },
+    {
+      "id": 164,
+      "sphere": -7.75,
+      "cylinder": -1,
+      "sum": "138"
+    },
+    {
+      "id": 165,
+      "sphere": -8,
+      "cylinder": -1,
+      "sum": "141"
+    },
+    {
+      "id": 166,
+      "sphere": 0,
+      "cylinder": -1.25,
+      "sum": "n/a"
+    },
+    {
+      "id": 167,
+      "sphere": -0.25,
+      "cylinder": -1.25,
+      "sum": "37"
+    },
+    {
+      "id": 168,
+      "sphere": -0.5,
+      "cylinder": -1.25,
+      "sum": "41"
+    },
+    {
+      "id": 169,
+      "sphere": -0.75,
+      "cylinder": -1.25,
+      "sum": "45"
+    },
+    {
+      "id": 170,
+      "sphere": -1,
+      "cylinder": -1.25,
+      "sum": "49"
+    },
+    {
+      "id": 171,
+      "sphere": -1.25,
+      "cylinder": -1.25,
+      "sum": "53"
+    },
+    {
+      "id": 172,
+      "sphere": -1.5,
+      "cylinder": -1.25,
+      "sum": "56"
+    },
+    {
+      "id": 173,
+      "sphere": -1.75,
+      "cylinder": -1.25,
+      "sum": "60"
+    },
+    {
+      "id": 174,
+      "sphere": -2,
+      "cylinder": -1.25,
+      "sum": "64"
+    },
+    {
+      "id": 175,
+      "sphere": -2.25,
+      "cylinder": -1.25,
+      "sum": "67"
+    },
+    {
+      "id": 176,
+      "sphere": -2.5,
+      "cylinder": -1.25,
+      "sum": "71"
+    },
+    {
+      "id": 177,
+      "sphere": -2.75,
+      "cylinder": -1.25,
+      "sum": "75"
+    },
+    {
+      "id": 178,
+      "sphere": -3,
+      "cylinder": -1.25,
+      "sum": "78"
+    },
+    {
+      "id": 179,
+      "sphere": -3.25,
+      "cylinder": -1.25,
+      "sum": "82"
+    },
+    {
+      "id": 180,
+      "sphere": -3.5,
+      "cylinder": -1.25,
+      "sum": "85"
+    },
+    {
+      "id": 181,
+      "sphere": -3.75,
+      "cylinder": -1.25,
+      "sum": "89"
+    },
+    {
+      "id": 182,
+      "sphere": -4,
+      "cylinder": -1.25,
+      "sum": "92"
+    },
+    {
+      "id": 183,
+      "sphere": -4.25,
+      "cylinder": -1.25,
+      "sum": "96"
+    },
+    {
+      "id": 184,
+      "sphere": -4.5,
+      "cylinder": -1.25,
+      "sum": "99"
+    },
+    {
+      "id": 185,
+      "sphere": -4.75,
+      "cylinder": -1.25,
+      "sum": "102"
+    },
+    {
+      "id": 186,
+      "sphere": -5,
+      "cylinder": -1.25,
+      "sum": "106"
+    },
+    {
+      "id": 187,
+      "sphere": -5.25,
+      "cylinder": -1.25,
+      "sum": "109"
+    },
+    {
+      "id": 188,
+      "sphere": -5.5,
+      "cylinder": -1.25,
+      "sum": "112"
+    },
+    {
+      "id": 189,
+      "sphere": -5.75,
+      "cylinder": -1.25,
+      "sum": "116"
+    },
+    {
+      "id": 190,
+      "sphere": -6,
+      "cylinder": -1.25,
+      "sum": "119"
+    },
+    {
+      "id": 191,
+      "sphere": -6.25,
+      "cylinder": -1.25,
+      "sum": "122"
+    },
+    {
+      "id": 192,
+      "sphere": -6.5,
+      "cylinder": -1.25,
+      "sum": "126"
+    },
+    {
+      "id": 193,
+      "sphere": -6.75,
+      "cylinder": -1.25,
+      "sum": "129"
+    },
+    {
+      "id": 194,
+      "sphere": -7,
+      "cylinder": -1.25,
+      "sum": "132"
+    },
+    {
+      "id": 195,
+      "sphere": -7.25,
+      "cylinder": -1.25,
+      "sum": "135"
+    },
+    {
+      "id": 196,
+      "sphere": -7.5,
+      "cylinder": -1.25,
+      "sum": "138"
+    },
+    {
+      "id": 197,
+      "sphere": -7.75,
+      "cylinder": -1.25,
+      "sum": "141"
+    },
+    {
+      "id": 198,
+      "sphere": -8,
+      "cylinder": -1.25,
+      "sum": "144"
+    },
+    {
+      "id": 199,
+      "sphere": 0,
+      "cylinder": -1.5,
+      "sum": "37"
+    },
+    {
+      "id": 200,
+      "sphere": -0.25,
+      "cylinder": -1.5,
+      "sum": "41"
+    },
+    {
+      "id": 201,
+      "sphere": -0.5,
+      "cylinder": -1.5,
+      "sum": "45"
+    },
+    {
+      "id": 202,
+      "sphere": -0.75,
+      "cylinder": -1.5,
+      "sum": "49"
+    },
+    {
+      "id": 203,
+      "sphere": -1,
+      "cylinder": -1.5,
+      "sum": "52"
+    },
+    {
+      "id": 204,
+      "sphere": -1.25,
+      "cylinder": -1.5,
+      "sum": "56"
+    },
+    {
+      "id": 205,
+      "sphere": -1.5,
+      "cylinder": -1.5,
+      "sum": "60"
+    },
+    {
+      "id": 206,
+      "sphere": -1.75,
+      "cylinder": -1.5,
+      "sum": "64"
+    },
+    {
+      "id": 207,
+      "sphere": -2,
+      "cylinder": -1.5,
+      "sum": "67"
+    },
+    {
+      "id": 208,
+      "sphere": -2.25,
+      "cylinder": -1.5,
+      "sum": "71"
+    },
+    {
+      "id": 209,
+      "sphere": -2.5,
+      "cylinder": -1.5,
+      "sum": "74"
+    },
+    {
+      "id": 210,
+      "sphere": -2.75,
+      "cylinder": -1.5,
+      "sum": "78"
+    },
+    {
+      "id": 211,
+      "sphere": -3,
+      "cylinder": -1.5,
+      "sum": "82"
+    },
+    {
+      "id": 212,
+      "sphere": -3.25,
+      "cylinder": -1.5,
+      "sum": "85"
+    },
+    {
+      "id": 213,
+      "sphere": -3.5,
+      "cylinder": -1.5,
+      "sum": "89"
+    },
+    {
+      "id": 214,
+      "sphere": -3.75,
+      "cylinder": -1.5,
+      "sum": "92"
+    },
+    {
+      "id": 215,
+      "sphere": -4,
+      "cylinder": -1.5,
+      "sum": "95"
+    },
+    {
+      "id": 216,
+      "sphere": -4.25,
+      "cylinder": -1.5,
+      "sum": "99"
+    },
+    {
+      "id": 217,
+      "sphere": -4.5,
+      "cylinder": -1.5,
+      "sum": "102"
+    },
+    {
+      "id": 218,
+      "sphere": -4.75,
+      "cylinder": -1.5,
+      "sum": "106"
+    },
+    {
+      "id": 219,
+      "sphere": -5,
+      "cylinder": -1.5,
+      "sum": "109"
+    },
+    {
+      "id": 220,
+      "sphere": -5.25,
+      "cylinder": -1.5,
+      "sum": "112"
+    },
+    {
+      "id": 221,
+      "sphere": -5.5,
+      "cylinder": -1.5,
+      "sum": "116"
+    },
+    {
+      "id": 222,
+      "sphere": -5.75,
+      "cylinder": -1.5,
+      "sum": "119"
+    },
+    {
+      "id": 223,
+      "sphere": -6,
+      "cylinder": -1.5,
+      "sum": "122"
+    },
+    {
+      "id": 224,
+      "sphere": -6.25,
+      "cylinder": -1.5,
+      "sum": "125"
+    },
+    {
+      "id": 225,
+      "sphere": -6.5,
+      "cylinder": -1.5,
+      "sum": "129"
+    },
+    {
+      "id": 226,
+      "sphere": -6.75,
+      "cylinder": -1.5,
+      "sum": "132"
+    },
+    {
+      "id": 227,
+      "sphere": -7,
+      "cylinder": -1.5,
+      "sum": "135"
+    },
+    {
+      "id": 228,
+      "sphere": -7.25,
+      "cylinder": -1.5,
+      "sum": "138"
+    },
+    {
+      "id": 229,
+      "sphere": -7.5,
+      "cylinder": -1.5,
+      "sum": "141"
+    },
+    {
+      "id": 230,
+      "sphere": -7.75,
+      "cylinder": -1.5,
+      "sum": "144"
+    },
+    {
+      "id": 231,
+      "sphere": -8,
+      "cylinder": -1.5,
+      "sum": "147"
+    },
+    {
+      "id": 232,
+      "sphere": 0,
+      "cylinder": -1.75,
+      "sum": "41"
+    },
+    {
+      "id": 233,
+      "sphere": -0.25,
+      "cylinder": -1.75,
+      "sum": "45"
+    },
+    {
+      "id": 234,
+      "sphere": -0.5,
+      "cylinder": -1.75,
+      "sum": "48"
+    },
+    {
+      "id": 235,
+      "sphere": -0.75,
+      "cylinder": -1.75,
+      "sum": "52"
+    },
+    {
+      "id": 236,
+      "sphere": -1,
+      "cylinder": -1.75,
+      "sum": "56"
+    },
+    {
+      "id": 237,
+      "sphere": -1.25,
+      "cylinder": -1.75,
+      "sum": "60"
+    },
+    {
+      "id": 238,
+      "sphere": -1.5,
+      "cylinder": -1.75,
+      "sum": "63"
+    },
+    {
+      "id": 239,
+      "sphere": -1.75,
+      "cylinder": -1.75,
+      "sum": "67"
+    },
+    {
+      "id": 240,
+      "sphere": -2,
+      "cylinder": -1.75,
+      "sum": "71"
+    },
+    {
+      "id": 241,
+      "sphere": -2.25,
+      "cylinder": -1.75,
+      "sum": "74"
+    },
+    {
+      "id": 242,
+      "sphere": -2.5,
+      "cylinder": -1.75,
+      "sum": "78"
+    },
+    {
+      "id": 243,
+      "sphere": -2.75,
+      "cylinder": -1.75,
+      "sum": "81"
+    },
+    {
+      "id": 244,
+      "sphere": -3,
+      "cylinder": -1.75,
+      "sum": "85"
+    },
+    {
+      "id": 245,
+      "sphere": -3.25,
+      "cylinder": -1.75,
+      "sum": "88"
+    },
+    {
+      "id": 246,
+      "sphere": -3.5,
+      "cylinder": -1.75,
+      "sum": "92"
+    },
+    {
+      "id": 247,
+      "sphere": -3.75,
+      "cylinder": -1.75,
+      "sum": "95"
+    },
+    {
+      "id": 248,
+      "sphere": -4,
+      "cylinder": -1.75,
+      "sum": "99"
+    },
+    {
+      "id": 249,
+      "sphere": -4.25,
+      "cylinder": -1.75,
+      "sum": "102"
+    },
+    {
+      "id": 250,
+      "sphere": -4.5,
+      "cylinder": -1.75,
+      "sum": "105"
+    },
+    {
+      "id": 251,
+      "sphere": -4.75,
+      "cylinder": -1.75,
+      "sum": "109"
+    },
+    {
+      "id": 252,
+      "sphere": -5,
+      "cylinder": -1.75,
+      "sum": "112"
+    },
+    {
+      "id": 253,
+      "sphere": -5.25,
+      "cylinder": -1.75,
+      "sum": "115"
+    },
+    {
+      "id": 254,
+      "sphere": -5.5,
+      "cylinder": -1.75,
+      "sum": "119"
+    },
+    {
+      "id": 255,
+      "sphere": -5.75,
+      "cylinder": -1.75,
+      "sum": "122"
+    },
+    {
+      "id": 256,
+      "sphere": -6,
+      "cylinder": -1.75,
+      "sum": "125"
+    },
+    {
+      "id": 257,
+      "sphere": -6.25,
+      "cylinder": -1.75,
+      "sum": "128"
+    },
+    {
+      "id": 258,
+      "sphere": -6.5,
+      "cylinder": -1.75,
+      "sum": "132"
+    },
+    {
+      "id": 259,
+      "sphere": -6.75,
+      "cylinder": -1.75,
+      "sum": "135"
+    },
+    {
+      "id": 260,
+      "sphere": -7,
+      "cylinder": -1.75,
+      "sum": "138"
+    },
+    {
+      "id": 261,
+      "sphere": -7.25,
+      "cylinder": -1.75,
+      "sum": "141"
+    },
+    {
+      "id": 262,
+      "sphere": -7.5,
+      "cylinder": -1.75,
+      "sum": "144"
+    },
+    {
+      "id": 263,
+      "sphere": -7.75,
+      "cylinder": -1.75,
+      "sum": "147"
+    },
+    {
+      "id": 264,
+      "sphere": -8,
+      "cylinder": -1.75,
+      "sum": "150"
+    },
+    {
+      "id": 265,
+      "sphere": 0,
+      "cylinder": -2,
+      "sum": "44"
+    },
+    {
+      "id": 266,
+      "sphere": -0.25,
+      "cylinder": -2,
+      "sum": "48"
+    },
+    {
+      "id": 267,
+      "sphere": -0.5,
+      "cylinder": -2,
+      "sum": "52"
+    },
+    {
+      "id": 268,
+      "sphere": -0.75,
+      "cylinder": -2,
+      "sum": "56"
+    },
+    {
+      "id": 269,
+      "sphere": -1,
+      "cylinder": -2,
+      "sum": "59"
+    },
+    {
+      "id": 270,
+      "sphere": -1.25,
+      "cylinder": -2,
+      "sum": "63"
+    },
+    {
+      "id": 271,
+      "sphere": -1.5,
+      "cylinder": -2,
+      "sum": "67"
+    },
+    {
+      "id": 272,
+      "sphere": -1.75,
+      "cylinder": -2,
+      "sum": "70"
+    },
+    {
+      "id": 273,
+      "sphere": -2,
+      "cylinder": -2,
+      "sum": "74"
+    },
+    {
+      "id": 274,
+      "sphere": -2.25,
+      "cylinder": -2,
+      "sum": "78"
+    },
+    {
+      "id": 275,
+      "sphere": -2.5,
+      "cylinder": -2,
+      "sum": "81"
+    },
+    {
+      "id": 276,
+      "sphere": -2.75,
+      "cylinder": -2,
+      "sum": "85"
+    },
+    {
+      "id": 277,
+      "sphere": -3,
+      "cylinder": -2,
+      "sum": "88"
+    },
+    {
+      "id": 278,
+      "sphere": -3.25,
+      "cylinder": -2,
+      "sum": "92"
+    },
+    {
+      "id": 279,
+      "sphere": -3.5,
+      "cylinder": -2,
+      "sum": "95"
+    },
+    {
+      "id": 280,
+      "sphere": -3.75,
+      "cylinder": -2,
+      "sum": "99"
+    },
+    {
+      "id": 281,
+      "sphere": -4,
+      "cylinder": -2,
+      "sum": "102"
+    },
+    {
+      "id": 282,
+      "sphere": -4.25,
+      "cylinder": -2,
+      "sum": "105"
+    },
+    {
+      "id": 283,
+      "sphere": -4.5,
+      "cylinder": -2,
+      "sum": "109"
+    },
+    {
+      "id": 284,
+      "sphere": -4.75,
+      "cylinder": -2,
+      "sum": "112"
+    },
+    {
+      "id": 285,
+      "sphere": -5,
+      "cylinder": -2,
+      "sum": "115"
+    },
+    {
+      "id": 286,
+      "sphere": -5.25,
+      "cylinder": -2,
+      "sum": "119"
+    },
+    {
+      "id": 287,
+      "sphere": -5.5,
+      "cylinder": -2,
+      "sum": "122"
+    },
+    {
+      "id": 288,
+      "sphere": -5.75,
+      "cylinder": -2,
+      "sum": "125"
+    },
+    {
+      "id": 289,
+      "sphere": -6,
+      "cylinder": -2,
+      "sum": "128"
+    },
+    {
+      "id": 290,
+      "sphere": -6.25,
+      "cylinder": -2,
+      "sum": "131"
+    },
+    {
+      "id": 291,
+      "sphere": -6.5,
+      "cylinder": -2,
+      "sum": "135"
+    },
+    {
+      "id": 292,
+      "sphere": -6.75,
+      "cylinder": -2,
+      "sum": "138"
+    },
+    {
+      "id": 293,
+      "sphere": -7,
+      "cylinder": -2,
+      "sum": "141"
+    },
+    {
+      "id": 294,
+      "sphere": -7.25,
+      "cylinder": -2,
+      "sum": "144"
+    },
+    {
+      "id": 295,
+      "sphere": -7.5,
+      "cylinder": -2,
+      "sum": "147"
+    },
+    {
+      "id": 296,
+      "sphere": -7.75,
+      "cylinder": -2,
+      "sum": "150"
+    },
+    {
+      "id": 297,
+      "sphere": -8,
+      "cylinder": -2,
+      "sum": "153"
+    },
+    {
+      "id": 298,
+      "sphere": 0,
+      "cylinder": -2.25,
+      "sum": "48"
+    },
+    {
+      "id": 299,
+      "sphere": -0.25,
+      "cylinder": -2.25,
+      "sum": "52"
+    },
+    {
+      "id": 300,
+      "sphere": -0.5,
+      "cylinder": -2.25,
+      "sum": "55"
+    },
+    {
+      "id": 301,
+      "sphere": -0.75,
+      "cylinder": -2.25,
+      "sum": "59"
+    },
+    {
+      "id": 302,
+      "sphere": -1,
+      "cylinder": -2.25,
+      "sum": "63"
+    },
+    {
+      "id": 303,
+      "sphere": -1.25,
+      "cylinder": -2.25,
+      "sum": "66"
+    },
+    {
+      "id": 304,
+      "sphere": -1.5,
+      "cylinder": -2.25,
+      "sum": "70"
+    },
+    {
+      "id": 305,
+      "sphere": -1.75,
+      "cylinder": -2.25,
+      "sum": "74"
+    },
+    {
+      "id": 306,
+      "sphere": -2,
+      "cylinder": -2.25,
+      "sum": "77"
+    },
+    {
+      "id": 307,
+      "sphere": -2.25,
+      "cylinder": -2.25,
+      "sum": "81"
+    },
+    {
+      "id": 308,
+      "sphere": -2.5,
+      "cylinder": -2.25,
+      "sum": "84"
+    },
+    {
+      "id": 309,
+      "sphere": -2.75,
+      "cylinder": -2.25,
+      "sum": "88"
+    },
+    {
+      "id": 310,
+      "sphere": -3,
+      "cylinder": -2.25,
+      "sum": "91"
+    },
+    {
+      "id": 311,
+      "sphere": -3.25,
+      "cylinder": -2.25,
+      "sum": "95"
+    },
+    {
+      "id": 312,
+      "sphere": -3.5,
+      "cylinder": -2.25,
+      "sum": "98"
+    },
+    {
+      "id": 313,
+      "sphere": -3.75,
+      "cylinder": -2.25,
+      "sum": "102"
+    },
+    {
+      "id": 314,
+      "sphere": -4,
+      "cylinder": -2.25,
+      "sum": "105"
+    },
+    {
+      "id": 315,
+      "sphere": -4.25,
+      "cylinder": -2.25,
+      "sum": "108"
+    },
+    {
+      "id": 316,
+      "sphere": -4.5,
+      "cylinder": -2.25,
+      "sum": "112"
+    },
+    {
+      "id": 317,
+      "sphere": -4.75,
+      "cylinder": -2.25,
+      "sum": "115"
+    },
+    {
+      "id": 318,
+      "sphere": -5,
+      "cylinder": -2.25,
+      "sum": "118"
+    },
+    {
+      "id": 319,
+      "sphere": -5.25,
+      "cylinder": -2.25,
+      "sum": "121"
+    },
+    {
+      "id": 320,
+      "sphere": -5.5,
+      "cylinder": -2.25,
+      "sum": "125"
+    },
+    {
+      "id": 321,
+      "sphere": -5.75,
+      "cylinder": -2.25,
+      "sum": "128"
+    },
+    {
+      "id": 322,
+      "sphere": -6,
+      "cylinder": -2.25,
+      "sum": "131"
+    },
+    {
+      "id": 323,
+      "sphere": -6.25,
+      "cylinder": -2.25,
+      "sum": "134"
+    },
+    {
+      "id": 324,
+      "sphere": -6.5,
+      "cylinder": -2.25,
+      "sum": "137"
+    },
+    {
+      "id": 325,
+      "sphere": -6.75,
+      "cylinder": -2.25,
+      "sum": "140"
+    },
+    {
+      "id": 326,
+      "sphere": -7,
+      "cylinder": -2.25,
+      "sum": "143"
+    },
+    {
+      "id": 327,
+      "sphere": -7.25,
+      "cylinder": -2.25,
+      "sum": "146"
+    },
+    {
+      "id": 328,
+      "sphere": -7.5,
+      "cylinder": -2.25,
+      "sum": "149"
+    },
+    {
+      "id": 329,
+      "sphere": -7.75,
+      "cylinder": -2.25,
+      "sum": "152"
+    },
+    {
+      "id": 330,
+      "sphere": -8,
+      "cylinder": -2.25,
+      "sum": "155"
+    },
+    {
+      "id": 331,
+      "sphere": 0,
+      "cylinder": -2.5,
+      "sum": "51"
+    },
+    {
+      "id": 332,
+      "sphere": -0.25,
+      "cylinder": -2.5,
+      "sum": "55"
+    },
+    {
+      "id": 333,
+      "sphere": -0.5,
+      "cylinder": -2.5,
+      "sum": "59"
+    },
+    {
+      "id": 334,
+      "sphere": -0.75,
+      "cylinder": -2.5,
+      "sum": "63"
+    },
+    {
+      "id": 335,
+      "sphere": -1,
+      "cylinder": -2.5,
+      "sum": "66"
+    },
+    {
+      "id": 336,
+      "sphere": -1.25,
+      "cylinder": -2.5,
+      "sum": "70"
+    },
+    {
+      "id": 337,
+      "sphere": -1.5,
+      "cylinder": -2.5,
+      "sum": "73"
+    },
+    {
+      "id": 338,
+      "sphere": -1.75,
+      "cylinder": -2.5,
+      "sum": "77"
+    },
+    {
+      "id": 339,
+      "sphere": -2,
+      "cylinder": -2.5,
+      "sum": "81"
+    },
+    {
+      "id": 340,
+      "sphere": -2.25,
+      "cylinder": -2.5,
+      "sum": "84"
+    },
+    {
+      "id": 341,
+      "sphere": -2.5,
+      "cylinder": -2.5,
+      "sum": "88"
+    },
+    {
+      "id": 342,
+      "sphere": -2.75,
+      "cylinder": -2.5,
+      "sum": "91"
+    },
+    {
+      "id": 343,
+      "sphere": -3,
+      "cylinder": -2.5,
+      "sum": "95"
+    },
+    {
+      "id": 344,
+      "sphere": -3.25,
+      "cylinder": -2.5,
+      "sum": "98"
+    },
+    {
+      "id": 345,
+      "sphere": -3.5,
+      "cylinder": -2.5,
+      "sum": "101"
+    },
+    {
+      "id": 346,
+      "sphere": -3.75,
+      "cylinder": -2.5,
+      "sum": "105"
+    },
+    {
+      "id": 347,
+      "sphere": -4,
+      "cylinder": -2.5,
+      "sum": "108"
+    },
+    {
+      "id": 348,
+      "sphere": -4.25,
+      "cylinder": -2.5,
+      "sum": "111"
+    },
+    {
+      "id": 349,
+      "sphere": -4.5,
+      "cylinder": -2.5,
+      "sum": "115"
+    },
+    {
+      "id": 350,
+      "sphere": -4.75,
+      "cylinder": -2.5,
+      "sum": "118"
+    },
+    {
+      "id": 351,
+      "sphere": -5,
+      "cylinder": -2.5,
+      "sum": "121"
+    },
+    {
+      "id": 352,
+      "sphere": -5.25,
+      "cylinder": -2.5,
+      "sum": "124"
+    },
+    {
+      "id": 353,
+      "sphere": -5.5,
+      "cylinder": -2.5,
+      "sum": "128"
+    },
+    {
+      "id": 354,
+      "sphere": -5.75,
+      "cylinder": -2.5,
+      "sum": "131"
+    },
+    {
+      "id": 355,
+      "sphere": -6,
+      "cylinder": -2.5,
+      "sum": "134"
+    },
+    {
+      "id": 356,
+      "sphere": -6.25,
+      "cylinder": -2.5,
+      "sum": "137"
+    },
+    {
+      "id": 357,
+      "sphere": -6.5,
+      "cylinder": -2.5,
+      "sum": "140"
+    },
+    {
+      "id": 358,
+      "sphere": -6.75,
+      "cylinder": -2.5,
+      "sum": "143"
+    },
+    {
+      "id": 359,
+      "sphere": -7,
+      "cylinder": -2.5,
+      "sum": "146"
+    },
+    {
+      "id": 360,
+      "sphere": -7.25,
+      "cylinder": -2.5,
+      "sum": "149"
+    },
+    {
+      "id": 361,
+      "sphere": -7.5,
+      "cylinder": -2.5,
+      "sum": "152"
+    },
+    {
+      "id": 362,
+      "sphere": -7.75,
+      "cylinder": -2.5,
+      "sum": "155"
+    },
+    {
+      "id": 363,
+      "sphere": -8,
+      "cylinder": -2.5,
+      "sum": "158"
+    },
+    {
+      "id": 364,
+      "sphere": 0,
+      "cylinder": -2.75,
+      "sum": "55"
+    },
+    {
+      "id": 365,
+      "sphere": -0.25,
+      "cylinder": -2.75,
+      "sum": "59"
+    },
+    {
+      "id": 366,
+      "sphere": -0.5,
+      "cylinder": -2.75,
+      "sum": "62"
+    },
+    {
+      "id": 367,
+      "sphere": -0.75,
+      "cylinder": -2.75,
+      "sum": "66"
+    },
+    {
+      "id": 368,
+      "sphere": -1,
+      "cylinder": -2.75,
+      "sum": "70"
+    },
+    {
+      "id": 369,
+      "sphere": -1.25,
+      "cylinder": -2.75,
+      "sum": "73"
+    },
+    {
+      "id": 370,
+      "sphere": -1.5,
+      "cylinder": -2.75,
+      "sum": "77"
+    },
+    {
+      "id": 371,
+      "sphere": -1.75,
+      "cylinder": -2.75,
+      "sum": "80"
+    },
+    {
+      "id": 372,
+      "sphere": -2,
+      "cylinder": -2.75,
+      "sum": "84"
+    },
+    {
+      "id": 373,
+      "sphere": -2.25,
+      "cylinder": -2.75,
+      "sum": "87"
+    },
+    {
+      "id": 374,
+      "sphere": -2.5,
+      "cylinder": -2.75,
+      "sum": "91"
+    },
+    {
+      "id": 375,
+      "sphere": -2.75,
+      "cylinder": -2.75,
+      "sum": "94"
+    },
+    {
+      "id": 376,
+      "sphere": -3,
+      "cylinder": -2.75,
+      "sum": "98"
+    },
+    {
+      "id": 377,
+      "sphere": -3.25,
+      "cylinder": -2.75,
+      "sum": "101"
+    },
+    {
+      "id": 378,
+      "sphere": -3.5,
+      "cylinder": -2.75,
+      "sum": "105"
+    },
+    {
+      "id": 379,
+      "sphere": -3.75,
+      "cylinder": -2.75,
+      "sum": "108"
+    },
+    {
+      "id": 380,
+      "sphere": -4,
+      "cylinder": -2.75,
+      "sum": "111"
+    },
+    {
+      "id": 381,
+      "sphere": -4.25,
+      "cylinder": -2.75,
+      "sum": "114"
+    },
+    {
+      "id": 382,
+      "sphere": -4.5,
+      "cylinder": -2.75,
+      "sum": "118"
+    },
+    {
+      "id": 383,
+      "sphere": -4.75,
+      "cylinder": -2.75,
+      "sum": "121"
+    },
+    {
+      "id": 384,
+      "sphere": -5,
+      "cylinder": -2.75,
+      "sum": "124"
+    },
+    {
+      "id": 385,
+      "sphere": -5.25,
+      "cylinder": -2.75,
+      "sum": "127"
+    },
+    {
+      "id": 386,
+      "sphere": -5.5,
+      "cylinder": -2.75,
+      "sum": "131"
+    },
+    {
+      "id": 387,
+      "sphere": -5.75,
+      "cylinder": -2.75,
+      "sum": "134"
+    },
+    {
+      "id": 388,
+      "sphere": -6,
+      "cylinder": -2.75,
+      "sum": "137"
+    },
+    {
+      "id": 389,
+      "sphere": -6.25,
+      "cylinder": -2.75,
+      "sum": "140"
+    },
+    {
+      "id": 390,
+      "sphere": -6.5,
+      "cylinder": -2.75,
+      "sum": "143"
+    },
+    {
+      "id": 391,
+      "sphere": -6.75,
+      "cylinder": -2.75,
+      "sum": "146"
+    },
+    {
+      "id": 392,
+      "sphere": -7,
+      "cylinder": -2.75,
+      "sum": "149"
+    },
+    {
+      "id": 393,
+      "sphere": -7.25,
+      "cylinder": -2.75,
+      "sum": "152"
+    },
+    {
+      "id": 394,
+      "sphere": -7.5,
+      "cylinder": -2.75,
+      "sum": "155"
+    },
+    {
+      "id": 395,
+      "sphere": -7.75,
+      "cylinder": -2.75,
+      "sum": "158"
+    },
+    {
+      "id": 396,
+      "sphere": -8,
+      "cylinder": -2.75,
+      "sum": "161"
+    },
+    {
+      "id": 397,
+      "sphere": 0,
+      "cylinder": -3,
+      "sum": "58"
+    },
+    {
+      "id": 398,
+      "sphere": -0.25,
+      "cylinder": -3,
+      "sum": "62"
+    },
+    {
+      "id": 399,
+      "sphere": -0.5,
+      "cylinder": -3,
+      "sum": "66"
+    },
+    {
+      "id": 400,
+      "sphere": -0.75,
+      "cylinder": -3,
+      "sum": "69"
+    },
+    {
+      "id": 401,
+      "sphere": -1,
+      "cylinder": -3,
+      "sum": "73"
+    },
+    {
+      "id": 402,
+      "sphere": -1.25,
+      "cylinder": -3,
+      "sum": "77"
+    },
+    {
+      "id": 403,
+      "sphere": -1.5,
+      "cylinder": -3,
+      "sum": "80"
+    },
+    {
+      "id": 404,
+      "sphere": -1.75,
+      "cylinder": -3,
+      "sum": "84"
+    },
+    {
+      "id": 405,
+      "sphere": -2,
+      "cylinder": -3,
+      "sum": "87"
+    },
+    {
+      "id": 406,
+      "sphere": -2.25,
+      "cylinder": -3,
+      "sum": "91"
+    },
+    {
+      "id": 407,
+      "sphere": -2.5,
+      "cylinder": -3,
+      "sum": "94"
+    },
+    {
+      "id": 408,
+      "sphere": -2.75,
+      "cylinder": -3,
+      "sum": "98"
+    },
+    {
+      "id": 409,
+      "sphere": -3,
+      "cylinder": -3,
+      "sum": "101"
+    },
+    {
+      "id": 410,
+      "sphere": -3.25,
+      "cylinder": -3,
+      "sum": "104"
+    },
+    {
+      "id": 411,
+      "sphere": -3.5,
+      "cylinder": -3,
+      "sum": "108"
+    },
+    {
+      "id": 412,
+      "sphere": -3.75,
+      "cylinder": -3,
+      "sum": "111"
+    },
+    {
+      "id": 413,
+      "sphere": -4,
+      "cylinder": -3,
+      "sum": "114"
+    },
+    {
+      "id": 414,
+      "sphere": -4.25,
+      "cylinder": -3,
+      "sum": "118"
+    },
+    {
+      "id": 415,
+      "sphere": -4.5,
+      "cylinder": -3,
+      "sum": "121"
+    },
+    {
+      "id": 416,
+      "sphere": -4.75,
+      "cylinder": -3,
+      "sum": "124"
+    },
+    {
+      "id": 417,
+      "sphere": -5,
+      "cylinder": -3,
+      "sum": "127"
+    },
+    {
+      "id": 418,
+      "sphere": -5.25,
+      "cylinder": -3,
+      "sum": "130"
+    },
+    {
+      "id": 419,
+      "sphere": -5.5,
+      "cylinder": -3,
+      "sum": "134"
+    },
+    {
+      "id": 420,
+      "sphere": -5.75,
+      "cylinder": -3,
+      "sum": "137"
+    },
+    {
+      "id": 421,
+      "sphere": -6,
+      "cylinder": -3,
+      "sum": "140"
+    },
+    {
+      "id": 422,
+      "sphere": -6.25,
+      "cylinder": -3,
+      "sum": "143"
+    },
+    {
+      "id": 423,
+      "sphere": -6.5,
+      "cylinder": -3,
+      "sum": "146"
+    },
+    {
+      "id": 424,
+      "sphere": -6.75,
+      "cylinder": -3,
+      "sum": "149"
+    },
+    {
+      "id": 425,
+      "sphere": -7,
+      "cylinder": -3,
+      "sum": "152"
+    },
+    {
+      "id": 426,
+      "sphere": -7.25,
+      "cylinder": -3,
+      "sum": "155"
+    },
+    {
+      "id": 427,
+      "sphere": -7.5,
+      "cylinder": -3,
+      "sum": "158"
+    },
+    {
+      "id": 428,
+      "sphere": -7.75,
+      "cylinder": -3,
+      "sum": "161"
+    },
+    {
+      "id": 429,
+      "sphere": -8,
+      "cylinder": -3,
+      "sum": "164"
+    },
+    {
+      "id": 430,
+      "sphere": 0,
+      "cylinder": -3.25,
+      "sum": "62"
+    },
+    {
+      "id": 431,
+      "sphere": -0.25,
+      "cylinder": -3.25,
+      "sum": "66"
+    },
+    {
+      "id": 432,
+      "sphere": -0.5,
+      "cylinder": -3.25,
+      "sum": "69"
+    },
+    {
+      "id": 433,
+      "sphere": -0.75,
+      "cylinder": -3.25,
+      "sum": "73"
+    },
+    {
+      "id": 434,
+      "sphere": -1,
+      "cylinder": -3.25,
+      "sum": "76"
+    },
+    {
+      "id": 435,
+      "sphere": -1.25,
+      "cylinder": -3.25,
+      "sum": "80"
+    },
+    {
+      "id": 436,
+      "sphere": -1.5,
+      "cylinder": -3.25,
+      "sum": "84"
+    },
+    {
+      "id": 437,
+      "sphere": -1.75,
+      "cylinder": -3.25,
+      "sum": "87"
+    },
+    {
+      "id": 438,
+      "sphere": -2,
+      "cylinder": -3.25,
+      "sum": "91"
+    },
+    {
+      "id": 439,
+      "sphere": -2.25,
+      "cylinder": -3.25,
+      "sum": "94"
+    },
+    {
+      "id": 440,
+      "sphere": -2.5,
+      "cylinder": -3.25,
+      "sum": "97"
+    },
+    {
+      "id": 441,
+      "sphere": -2.75,
+      "cylinder": -3.25,
+      "sum": "101"
+    },
+    {
+      "id": 442,
+      "sphere": -3,
+      "cylinder": -3.25,
+      "sum": "104"
+    },
+    {
+      "id": 443,
+      "sphere": -3.25,
+      "cylinder": -3.25,
+      "sum": "108"
+    },
+    {
+      "id": 444,
+      "sphere": -3.5,
+      "cylinder": -3.25,
+      "sum": "111"
+    },
+    {
+      "id": 445,
+      "sphere": -3.75,
+      "cylinder": -3.25,
+      "sum": "114"
+    },
+    {
+      "id": 446,
+      "sphere": -4,
+      "cylinder": -3.25,
+      "sum": "117"
+    },
+    {
+      "id": 447,
+      "sphere": -4.25,
+      "cylinder": -3.25,
+      "sum": "121"
+    },
+    {
+      "id": 448,
+      "sphere": -4.5,
+      "cylinder": -3.25,
+      "sum": "124"
+    },
+    {
+      "id": 449,
+      "sphere": -4.75,
+      "cylinder": -3.25,
+      "sum": "127"
+    },
+    {
+      "id": 450,
+      "sphere": -5,
+      "cylinder": -3.25,
+      "sum": "130"
+    },
+    {
+      "id": 451,
+      "sphere": -5.25,
+      "cylinder": -3.25,
+      "sum": "133"
+    },
+    {
+      "id": 452,
+      "sphere": -5.5,
+      "cylinder": -3.25,
+      "sum": "137"
+    },
+    {
+      "id": 453,
+      "sphere": -5.75,
+      "cylinder": -3.25,
+      "sum": "140"
+    },
+    {
+      "id": 454,
+      "sphere": -6,
+      "cylinder": -3.25,
+      "sum": "143"
+    },
+    {
+      "id": 455,
+      "sphere": -6.25,
+      "cylinder": -3.25,
+      "sum": "146"
+    },
+    {
+      "id": 456,
+      "sphere": -6.5,
+      "cylinder": -3.25,
+      "sum": "149"
+    },
+    {
+      "id": 457,
+      "sphere": -6.75,
+      "cylinder": -3.25,
+      "sum": "152"
+    },
+    {
+      "id": 458,
+      "sphere": -7,
+      "cylinder": -3.25,
+      "sum": "155"
+    },
+    {
+      "id": 459,
+      "sphere": -7.25,
+      "cylinder": -3.25,
+      "sum": "158"
+    },
+    {
+      "id": 460,
+      "sphere": -7.5,
+      "cylinder": -3.25,
+      "sum": "161"
+    },
+    {
+      "id": 461,
+      "sphere": -7.75,
+      "cylinder": -3.25,
+      "sum": "164"
+    },
+    {
+      "id": 462,
+      "sphere": -8,
+      "cylinder": -3.25,
+      "sum": "167"
+    },
+    {
+      "id": 463,
+      "sphere": 0,
+      "cylinder": -3.5,
+      "sum": "65"
+    },
+    {
+      "id": 464,
+      "sphere": -0.25,
+      "cylinder": -3.5,
+      "sum": "69"
+    },
+    {
+      "id": 465,
+      "sphere": -0.5,
+      "cylinder": -3.5,
+      "sum": "73"
+    },
+    {
+      "id": 466,
+      "sphere": -0.75,
+      "cylinder": -3.5,
+      "sum": "76"
+    },
+    {
+      "id": 467,
+      "sphere": -1,
+      "cylinder": -3.5,
+      "sum": "80"
+    },
+    {
+      "id": 468,
+      "sphere": -1.25,
+      "cylinder": -3.5,
+      "sum": "83"
+    },
+    {
+      "id": 469,
+      "sphere": -1.5,
+      "cylinder": -3.5,
+      "sum": "87"
+    },
+    {
+      "id": 470,
+      "sphere": -1.75,
+      "cylinder": -3.5,
+      "sum": "90"
+    },
+    {
+      "id": 471,
+      "sphere": -2,
+      "cylinder": -3.5,
+      "sum": "94"
+    },
+    {
+      "id": 472,
+      "sphere": -2.25,
+      "cylinder": -3.5,
+      "sum": "97"
+    },
+    {
+      "id": 473,
+      "sphere": -2.5,
+      "cylinder": -3.5,
+      "sum": "101"
+    },
+    {
+      "id": 474,
+      "sphere": -2.75,
+      "cylinder": -3.5,
+      "sum": "104"
+    },
+    {
+      "id": 475,
+      "sphere": -3,
+      "cylinder": -3.5,
+      "sum": "107"
+    },
+    {
+      "id": 476,
+      "sphere": -3.25,
+      "cylinder": -3.5,
+      "sum": "111"
+    },
+    {
+      "id": 477,
+      "sphere": -3.5,
+      "cylinder": -3.5,
+      "sum": "114"
+    },
+    {
+      "id": 478,
+      "sphere": -3.75,
+      "cylinder": -3.5,
+      "sum": "117"
+    },
+    {
+      "id": 479,
+      "sphere": -4,
+      "cylinder": -3.5,
+      "sum": "120"
+    },
+    {
+      "id": 480,
+      "sphere": -4.25,
+      "cylinder": -3.5,
+      "sum": "124"
+    },
+    {
+      "id": 481,
+      "sphere": -4.5,
+      "cylinder": -3.5,
+      "sum": "127"
+    },
+    {
+      "id": 482,
+      "sphere": -4.75,
+      "cylinder": -3.5,
+      "sum": "130"
+    },
+    {
+      "id": 483,
+      "sphere": -5,
+      "cylinder": -3.5,
+      "sum": "133"
+    },
+    {
+      "id": 484,
+      "sphere": -5.25,
+      "cylinder": -3.5,
+      "sum": "136"
+    },
+    {
+      "id": 485,
+      "sphere": -5.5,
+      "cylinder": -3.5,
+      "sum": "140"
+    },
+    {
+      "id": 486,
+      "sphere": -5.75,
+      "cylinder": -3.5,
+      "sum": "143"
+    },
+    {
+      "id": 487,
+      "sphere": -6,
+      "cylinder": -3.5,
+      "sum": "146"
+    },
+    {
+      "id": 488,
+      "sphere": -6.25,
+      "cylinder": -3.5,
+      "sum": "149"
+    },
+    {
+      "id": 489,
+      "sphere": -6.5,
+      "cylinder": -3.5,
+      "sum": "152"
+    },
+    {
+      "id": 490,
+      "sphere": -6.75,
+      "cylinder": -3.5,
+      "sum": "155"
+    },
+    {
+      "id": 491,
+      "sphere": -7,
+      "cylinder": -3.5,
+      "sum": "158"
+    },
+    {
+      "id": 492,
+      "sphere": -7.25,
+      "cylinder": -3.5,
+      "sum": "161"
+    },
+    {
+      "id": 493,
+      "sphere": -7.5,
+      "cylinder": -3.5,
+      "sum": "164"
+    },
+    {
+      "id": 494,
+      "sphere": -7.75,
+      "cylinder": -3.5,
+      "sum": "167"
+    },
+    {
+      "id": 495,
+      "sphere": -8,
+      "cylinder": -3.5,
+      "sum": "170"
+    },
+    {
+      "id": 496,
+      "sphere": 0,
+      "cylinder": -3.75,
+      "sum": "69"
+    },
+    {
+      "id": 497,
+      "sphere": -0.25,
+      "cylinder": -3.75,
+      "sum": "72"
+    },
+    {
+      "id": 498,
+      "sphere": -0.5,
+      "cylinder": -3.75,
+      "sum": "76"
+    },
+    {
+      "id": 499,
+      "sphere": -0.75,
+      "cylinder": -3.75,
+      "sum": "80"
+    },
+    {
+      "id": 500,
+      "sphere": -1,
+      "cylinder": -3.75,
+      "sum": "83"
+    },
+    {
+      "id": 501,
+      "sphere": -1.25,
+      "cylinder": -3.75,
+      "sum": "87"
+    },
+    {
+      "id": 502,
+      "sphere": -1.5,
+      "cylinder": -3.75,
+      "sum": "90"
+    },
+    {
+      "id": 503,
+      "sphere": -1.75,
+      "cylinder": -3.75,
+      "sum": "94"
+    },
+    {
+      "id": 504,
+      "sphere": -2,
+      "cylinder": -3.75,
+      "sum": "97"
+    },
+    {
+      "id": 505,
+      "sphere": -2.25,
+      "cylinder": -3.75,
+      "sum": "100"
+    },
+    {
+      "id": 506,
+      "sphere": -2.5,
+      "cylinder": -3.75,
+      "sum": "104"
+    },
+    {
+      "id": 507,
+      "sphere": -2.75,
+      "cylinder": -3.75,
+      "sum": "107"
+    },
+    {
+      "id": 508,
+      "sphere": -3,
+      "cylinder": -3.75,
+      "sum": "110"
+    },
+    {
+      "id": 509,
+      "sphere": -3.25,
+      "cylinder": -3.75,
+      "sum": "114"
+    },
+    {
+      "id": 510,
+      "sphere": -3.5,
+      "cylinder": -3.75,
+      "sum": "117"
+    },
+    {
+      "id": 511,
+      "sphere": -3.75,
+      "cylinder": -3.75,
+      "sum": "120"
+    },
+    {
+      "id": 512,
+      "sphere": -4,
+      "cylinder": -3.75,
+      "sum": "124"
+    },
+    {
+      "id": 513,
+      "sphere": -4.25,
+      "cylinder": -3.75,
+      "sum": "127"
+    },
+    {
+      "id": 514,
+      "sphere": -4.5,
+      "cylinder": -3.75,
+      "sum": "130"
+    },
+    {
+      "id": 515,
+      "sphere": -4.75,
+      "cylinder": -3.75,
+      "sum": "133"
+    },
+    {
+      "id": 516,
+      "sphere": -5,
+      "cylinder": -3.75,
+      "sum": "136"
+    },
+    {
+      "id": 517,
+      "sphere": -5.25,
+      "cylinder": -3.75,
+      "sum": "139"
+    },
+    {
+      "id": 518,
+      "sphere": -5.5,
+      "cylinder": -3.75,
+      "sum": "142"
+    },
+    {
+      "id": 519,
+      "sphere": -5.75,
+      "cylinder": -3.75,
+      "sum": "146"
+    },
+    {
+      "id": 520,
+      "sphere": -6,
+      "cylinder": -3.75,
+      "sum": "149"
+    },
+    {
+      "id": 521,
+      "sphere": -6.25,
+      "cylinder": -3.75,
+      "sum": "152"
+    },
+    {
+      "id": 522,
+      "sphere": -6.5,
+      "cylinder": -3.75,
+      "sum": "155"
+    },
+    {
+      "id": 523,
+      "sphere": -6.75,
+      "cylinder": -3.75,
+      "sum": "158"
+    },
+    {
+      "id": 524,
+      "sphere": -7,
+      "cylinder": -3.75,
+      "sum": "161"
+    },
+    {
+      "id": 525,
+      "sphere": -7.25,
+      "cylinder": -3.75,
+      "sum": "164"
+    },
+    {
+      "id": 526,
+      "sphere": -7.5,
+      "cylinder": -3.75,
+      "sum": "167"
+    },
+    {
+      "id": 527,
+      "sphere": -7.75,
+      "cylinder": -3.75,
+      "sum": "169"
+    },
+    {
+      "id": 528,
+      "sphere": -8,
+      "cylinder": -3.75,
+      "sum": "172"
+    },
+    {
+      "id": 529,
+      "sphere": 0,
+      "cylinder": -4,
+      "sum": "72"
+    },
+    {
+      "id": 530,
+      "sphere": -0.25,
+      "cylinder": -4,
+      "sum": "76"
+    },
+    {
+      "id": 531,
+      "sphere": -0.5,
+      "cylinder": -4,
+      "sum": "79"
+    },
+    {
+      "id": 532,
+      "sphere": -0.75,
+      "cylinder": -4,
+      "sum": "83"
+    },
+    {
+      "id": 533,
+      "sphere": -1,
+      "cylinder": -4,
+      "sum": "86"
+    },
+    {
+      "id": 534,
+      "sphere": -1.25,
+      "cylinder": -4,
+      "sum": "90"
+    },
+    {
+      "id": 535,
+      "sphere": -1.5,
+      "cylinder": -4,
+      "sum": "93"
+    },
+    {
+      "id": 536,
+      "sphere": -1.75,
+      "cylinder": -4,
+      "sum": "97"
+    },
+    {
+      "id": 537,
+      "sphere": -2,
+      "cylinder": -4,
+      "sum": "100"
+    },
+    {
+      "id": 538,
+      "sphere": -2.25,
+      "cylinder": -4,
+      "sum": "104"
+    },
+    {
+      "id": 539,
+      "sphere": -2.5,
+      "cylinder": -4,
+      "sum": "107"
+    },
+    {
+      "id": 540,
+      "sphere": -2.75,
+      "cylinder": -4,
+      "sum": "110"
+    },
+    {
+      "id": 541,
+      "sphere": -3,
+      "cylinder": -4,
+      "sum": "114"
+    },
+    {
+      "id": 542,
+      "sphere": -3.25,
+      "cylinder": -4,
+      "sum": "117"
+    },
+    {
+      "id": 543,
+      "sphere": -3.5,
+      "cylinder": -4,
+      "sum": "120"
+    },
+    {
+      "id": 544,
+      "sphere": -3.75,
+      "cylinder": -4,
+      "sum": "123"
+    },
+    {
+      "id": 545,
+      "sphere": -4,
+      "cylinder": -4,
+      "sum": "127"
+    },
+    {
+      "id": 546,
+      "sphere": -4.25,
+      "cylinder": -4,
+      "sum": "130"
+    },
+    {
+      "id": 547,
+      "sphere": -4.5,
+      "cylinder": -4,
+      "sum": "133"
+    },
+    {
+      "id": 548,
+      "sphere": -4.75,
+      "cylinder": -4,
+      "sum": "136"
+    },
+    {
+      "id": 549,
+      "sphere": -5,
+      "cylinder": -4,
+      "sum": "139"
+    },
+    {
+      "id": 550,
+      "sphere": -5.25,
+      "cylinder": -4,
+      "sum": "142"
+    },
+    {
+      "id": 551,
+      "sphere": -5.5,
+      "cylinder": -4,
+      "sum": "145"
+    },
+    {
+      "id": 552,
+      "sphere": -5.75,
+      "cylinder": -4,
+      "sum": "148"
+    },
+    {
+      "id": 553,
+      "sphere": -6,
+      "cylinder": -4,
+      "sum": "152"
+    },
+    {
+      "id": 554,
+      "sphere": -6.25,
+      "cylinder": -4,
+      "sum": "155"
+    },
+    {
+      "id": 555,
+      "sphere": -6.5,
+      "cylinder": -4,
+      "sum": "158"
+    },
+    {
+      "id": 556,
+      "sphere": -6.75,
+      "cylinder": -4,
+      "sum": "160"
+    },
+    {
+      "id": 557,
+      "sphere": -7,
+      "cylinder": -4,
+      "sum": "163"
+    },
+    {
+      "id": 558,
+      "sphere": -7.25,
+      "cylinder": -4,
+      "sum": "166"
+    },
+    {
+      "id": 559,
+      "sphere": -7.5,
+      "cylinder": -4,
+      "sum": "169"
+    },
+    {
+      "id": 560,
+      "sphere": -7.75,
+      "cylinder": -4,
+      "sum": "172"
+    },
+    {
+      "id": 561,
+      "sphere": -8,
+      "cylinder": -4,
+      "sum": "175"
+    },
+    {
+      "id": 562,
+      "sphere": 0,
+      "cylinder": -4.25,
+      "sum": "76"
+    },
+    {
+      "id": 563,
+      "sphere": -0.25,
+      "cylinder": -4.25,
+      "sum": "79"
+    },
+    {
+      "id": 564,
+      "sphere": -0.5,
+      "cylinder": -4.25,
+      "sum": "83"
+    },
+    {
+      "id": 565,
+      "sphere": -0.75,
+      "cylinder": -4.25,
+      "sum": "86"
+    },
+    {
+      "id": 566,
+      "sphere": -1,
+      "cylinder": -4.25,
+      "sum": "90"
+    },
+    {
+      "id": 567,
+      "sphere": -1.25,
+      "cylinder": -4.25,
+      "sum": "93"
+    },
+    {
+      "id": 568,
+      "sphere": -1.5,
+      "cylinder": -4.25,
+      "sum": "97"
+    },
+    {
+      "id": 569,
+      "sphere": -1.75,
+      "cylinder": -4.25,
+      "sum": "100"
+    },
+    {
+      "id": 570,
+      "sphere": -2,
+      "cylinder": -4.25,
+      "sum": "103"
+    },
+    {
+      "id": 571,
+      "sphere": -2.25,
+      "cylinder": -4.25,
+      "sum": "107"
+    },
+    {
+      "id": 572,
+      "sphere": -2.5,
+      "cylinder": -4.25,
+      "sum": "110"
+    },
+    {
+      "id": 573,
+      "sphere": -2.75,
+      "cylinder": -4.25,
+      "sum": "113"
+    },
+    {
+      "id": 574,
+      "sphere": -3,
+      "cylinder": -4.25,
+      "sum": "117"
+    },
+    {
+      "id": 575,
+      "sphere": -3.25,
+      "cylinder": -4.25,
+      "sum": "120"
+    },
+    {
+      "id": 576,
+      "sphere": -3.5,
+      "cylinder": -4.25,
+      "sum": "123"
+    },
+    {
+      "id": 577,
+      "sphere": -3.75,
+      "cylinder": -4.25,
+      "sum": "126"
+    },
+    {
+      "id": 578,
+      "sphere": -4,
+      "cylinder": -4.25,
+      "sum": "130"
+    },
+    {
+      "id": 579,
+      "sphere": -4.25,
+      "cylinder": -4.25,
+      "sum": "133"
+    },
+    {
+      "id": 580,
+      "sphere": -4.5,
+      "cylinder": -4.25,
+      "sum": "136"
+    },
+    {
+      "id": 581,
+      "sphere": -4.75,
+      "cylinder": -4.25,
+      "sum": "139"
+    },
+    {
+      "id": 582,
+      "sphere": -5,
+      "cylinder": -4.25,
+      "sum": "142"
+    },
+    {
+      "id": 583,
+      "sphere": -5.25,
+      "cylinder": -4.25,
+      "sum": "145"
+    },
+    {
+      "id": 584,
+      "sphere": -5.5,
+      "cylinder": -4.25,
+      "sum": "148"
+    },
+    {
+      "id": 585,
+      "sphere": -5.75,
+      "cylinder": -4.25,
+      "sum": "151"
+    },
+    {
+      "id": 586,
+      "sphere": -6,
+      "cylinder": -4.25,
+      "sum": "154"
+    },
+    {
+      "id": 587,
+      "sphere": -6.25,
+      "cylinder": -4.25,
+      "sum": "157"
+    },
+    {
+      "id": 588,
+      "sphere": -6.5,
+      "cylinder": -4.25,
+      "sum": "160"
+    },
+    {
+      "id": 589,
+      "sphere": -6.75,
+      "cylinder": -4.25,
+      "sum": "163"
+    },
+    {
+      "id": 590,
+      "sphere": -7,
+      "cylinder": -4.25,
+      "sum": "166"
+    },
+    {
+      "id": 591,
+      "sphere": -7.25,
+      "cylinder": -4.25,
+      "sum": "169"
+    },
+    {
+      "id": 592,
+      "sphere": -7.5,
+      "cylinder": -4.25,
+      "sum": "172"
+    },
+    {
+      "id": 593,
+      "sphere": -7.75,
+      "cylinder": -4.25,
+      "sum": "175"
+    },
+    {
+      "id": 594,
+      "sphere": -8,
+      "cylinder": -4.25,
+      "sum": "178"
+    },
+    {
+      "id": 595,
+      "sphere": 0,
+      "cylinder": -4.5,
+      "sum": "79"
+    },
+    {
+      "id": 596,
+      "sphere": -0.25,
+      "cylinder": -4.5,
+      "sum": "82"
+    },
+    {
+      "id": 597,
+      "sphere": -0.5,
+      "cylinder": -4.5,
+      "sum": "86"
+    },
+    {
+      "id": 598,
+      "sphere": -0.75,
+      "cylinder": -4.5,
+      "sum": "89"
+    },
+    {
+      "id": 599,
+      "sphere": -1,
+      "cylinder": -4.5,
+      "sum": "93"
+    },
+    {
+      "id": 600,
+      "sphere": -1.25,
+      "cylinder": -4.5,
+      "sum": "96"
+    },
+    {
+      "id": 601,
+      "sphere": -1.5,
+      "cylinder": -4.5,
+      "sum": "100"
+    },
+    {
+      "id": 602,
+      "sphere": -1.75,
+      "cylinder": -4.5,
+      "sum": "103"
+    },
+    {
+      "id": 603,
+      "sphere": -2,
+      "cylinder": -4.5,
+      "sum": "107"
+    },
+    {
+      "id": 604,
+      "sphere": -2.25,
+      "cylinder": -4.5,
+      "sum": "110"
+    },
+    {
+      "id": 605,
+      "sphere": -2.5,
+      "cylinder": -4.5,
+      "sum": "113"
+    },
+    {
+      "id": 606,
+      "sphere": -2.75,
+      "cylinder": -4.5,
+      "sum": "117"
+    },
+    {
+      "id": 607,
+      "sphere": -3,
+      "cylinder": -4.5,
+      "sum": "120"
+    },
+    {
+      "id": 608,
+      "sphere": -3.25,
+      "cylinder": -4.5,
+      "sum": "123"
+    },
+    {
+      "id": 609,
+      "sphere": -3.5,
+      "cylinder": -4.5,
+      "sum": "126"
+    },
+    {
+      "id": 610,
+      "sphere": -3.75,
+      "cylinder": -4.5,
+      "sum": "129"
+    },
+    {
+      "id": 611,
+      "sphere": -4,
+      "cylinder": -4.5,
+      "sum": "133"
+    },
+    {
+      "id": 612,
+      "sphere": -4.25,
+      "cylinder": -4.5,
+      "sum": "136"
+    },
+    {
+      "id": 613,
+      "sphere": -4.5,
+      "cylinder": -4.5,
+      "sum": "139"
+    },
+    {
+      "id": 614,
+      "sphere": -4.75,
+      "cylinder": -4.5,
+      "sum": "142"
+    },
+    {
+      "id": 615,
+      "sphere": -5,
+      "cylinder": -4.5,
+      "sum": "145"
+    },
+    {
+      "id": 616,
+      "sphere": -5.25,
+      "cylinder": -4.5,
+      "sum": "148"
+    },
+    {
+      "id": 617,
+      "sphere": -5.5,
+      "cylinder": -4.5,
+      "sum": "151"
+    },
+    {
+      "id": 618,
+      "sphere": -5.75,
+      "cylinder": -4.5,
+      "sum": "154"
+    },
+    {
+      "id": 619,
+      "sphere": -6,
+      "cylinder": -4.5,
+      "sum": "157"
+    },
+    {
+      "id": 620,
+      "sphere": -6.25,
+      "cylinder": -4.5,
+      "sum": "160"
+    },
+    {
+      "id": 621,
+      "sphere": -6.5,
+      "cylinder": -4.5,
+      "sum": "163"
+    },
+    {
+      "id": 622,
+      "sphere": -6.75,
+      "cylinder": -4.5,
+      "sum": "166"
+    },
+    {
+      "id": 623,
+      "sphere": -7,
+      "cylinder": -4.5,
+      "sum": "169"
+    },
+    {
+      "id": 624,
+      "sphere": -7.25,
+      "cylinder": -4.5,
+      "sum": "172"
+    },
+    {
+      "id": 625,
+      "sphere": -7.5,
+      "cylinder": -4.5,
+      "sum": "175"
+    },
+    {
+      "id": 626,
+      "sphere": -7.75,
+      "cylinder": -4.5,
+      "sum": "178"
+    },
+    {
+      "id": 627,
+      "sphere": -8,
+      "cylinder": -4.5,
+      "sum": "181"
+    },
+    {
+      "id": 628,
+      "sphere": 0,
+      "cylinder": -4.75,
+      "sum": "82"
+    },
+    {
+      "id": 629,
+      "sphere": -0.25,
+      "cylinder": -4.75,
+      "sum": "86"
+    },
+    {
+      "id": 630,
+      "sphere": -0.5,
+      "cylinder": -4.75,
+      "sum": "89"
+    },
+    {
+      "id": 631,
+      "sphere": -0.75,
+      "cylinder": -4.75,
+      "sum": "93"
+    },
+    {
+      "id": 632,
+      "sphere": -1,
+      "cylinder": -4.75,
+      "sum": "96"
+    },
+    {
+      "id": 633,
+      "sphere": -1.25,
+      "cylinder": -4.75,
+      "sum": "100"
+    },
+    {
+      "id": 634,
+      "sphere": -1.5,
+      "cylinder": -4.75,
+      "sum": "103"
+    },
+    {
+      "id": 635,
+      "sphere": -1.75,
+      "cylinder": -4.75,
+      "sum": "106"
+    },
+    {
+      "id": 636,
+      "sphere": -2,
+      "cylinder": -4.75,
+      "sum": "110"
+    },
+    {
+      "id": 637,
+      "sphere": -2.25,
+      "cylinder": -4.75,
+      "sum": "113"
+    },
+    {
+      "id": 638,
+      "sphere": -2.5,
+      "cylinder": -4.75,
+      "sum": "116"
+    },
+    {
+      "id": 639,
+      "sphere": -2.75,
+      "cylinder": -4.75,
+      "sum": "120"
+    },
+    {
+      "id": 640,
+      "sphere": -3,
+      "cylinder": -4.75,
+      "sum": "123"
+    },
+    {
+      "id": 641,
+      "sphere": -3.25,
+      "cylinder": -4.75,
+      "sum": "126"
+    },
+    {
+      "id": 642,
+      "sphere": -3.5,
+      "cylinder": -4.75,
+      "sum": "129"
+    },
+    {
+      "id": 643,
+      "sphere": -3.75,
+      "cylinder": -4.75,
+      "sum": "132"
+    },
+    {
+      "id": 644,
+      "sphere": -4,
+      "cylinder": -4.75,
+      "sum": "136"
+    },
+    {
+      "id": 645,
+      "sphere": -4.25,
+      "cylinder": -4.75,
+      "sum": "139"
+    },
+    {
+      "id": 646,
+      "sphere": -4.5,
+      "cylinder": -4.75,
+      "sum": "142"
+    },
+    {
+      "id": 647,
+      "sphere": -4.75,
+      "cylinder": -4.75,
+      "sum": "145"
+    },
+    {
+      "id": 648,
+      "sphere": -5,
+      "cylinder": -4.75,
+      "sum": "148"
+    },
+    {
+      "id": 649,
+      "sphere": -5.25,
+      "cylinder": -4.75,
+      "sum": "151"
+    },
+    {
+      "id": 650,
+      "sphere": -5.5,
+      "cylinder": -4.75,
+      "sum": "154"
+    },
+    {
+      "id": 651,
+      "sphere": -5.75,
+      "cylinder": -4.75,
+      "sum": "157"
+    },
+    {
+      "id": 652,
+      "sphere": -6,
+      "cylinder": -4.75,
+      "sum": "160"
+    },
+    {
+      "id": 653,
+      "sphere": -6.25,
+      "cylinder": -4.75,
+      "sum": "163"
+    },
+    {
+      "id": 654,
+      "sphere": -6.5,
+      "cylinder": -4.75,
+      "sum": "166"
+    },
+    {
+      "id": 655,
+      "sphere": -6.75,
+      "cylinder": -4.75,
+      "sum": "169"
+    },
+    {
+      "id": 656,
+      "sphere": -7,
+      "cylinder": -4.75,
+      "sum": "172"
+    },
+    {
+      "id": 657,
+      "sphere": -7.25,
+      "cylinder": -4.75,
+      "sum": "175"
+    },
+    {
+      "id": 658,
+      "sphere": -7.5,
+      "cylinder": -4.75,
+      "sum": "178"
+    },
+    {
+      "id": 659,
+      "sphere": -7.75,
+      "cylinder": -4.75,
+      "sum": "180"
+    },
+    {
+      "id": 660,
+      "sphere": -8,
+      "cylinder": -4.75,
+      "sum": "183"
+    },
+    {
+      "id": 661,
+      "sphere": 0,
+      "cylinder": -5,
+      "sum": "86"
+    },
+    {
+      "id": 662,
+      "sphere": -0.25,
+      "cylinder": -5,
+      "sum": "89"
+    },
+    {
+      "id": 663,
+      "sphere": -0.5,
+      "cylinder": -5,
+      "sum": "93"
+    },
+    {
+      "id": 664,
+      "sphere": -0.75,
+      "cylinder": -5,
+      "sum": "96"
+    },
+    {
+      "id": 665,
+      "sphere": -1,
+      "cylinder": -5,
+      "sum": "99"
+    },
+    {
+      "id": 666,
+      "sphere": -1.25,
+      "cylinder": -5,
+      "sum": "103"
+    },
+    {
+      "id": 667,
+      "sphere": -1.5,
+      "cylinder": -5,
+      "sum": "106"
+    },
+    {
+      "id": 668,
+      "sphere": -1.75,
+      "cylinder": -5,
+      "sum": "110"
+    },
+    {
+      "id": 669,
+      "sphere": -2,
+      "cylinder": -5,
+      "sum": "113"
+    },
+    {
+      "id": 670,
+      "sphere": -2.25,
+      "cylinder": -5,
+      "sum": "116"
+    },
+    {
+      "id": 671,
+      "sphere": -2.5,
+      "cylinder": -5,
+      "sum": "119"
+    },
+    {
+      "id": 672,
+      "sphere": -2.75,
+      "cylinder": -5,
+      "sum": "123"
+    },
+    {
+      "id": 673,
+      "sphere": -3,
+      "cylinder": -5,
+      "sum": "126"
+    },
+    {
+      "id": 674,
+      "sphere": -3.25,
+      "cylinder": -5,
+      "sum": "129"
+    },
+    {
+      "id": 675,
+      "sphere": -3.5,
+      "cylinder": -5,
+      "sum": "132"
+    },
+    {
+      "id": 676,
+      "sphere": -3.75,
+      "cylinder": -5,
+      "sum": "135"
+    },
+    {
+      "id": 677,
+      "sphere": -4,
+      "cylinder": -5,
+      "sum": "139"
+    },
+    {
+      "id": 678,
+      "sphere": -4.25,
+      "cylinder": -5,
+      "sum": "142"
+    },
+    {
+      "id": 679,
+      "sphere": -4.5,
+      "cylinder": -5,
+      "sum": "145"
+    },
+    {
+      "id": 680,
+      "sphere": -4.75,
+      "cylinder": -5,
+      "sum": "148"
+    },
+    {
+      "id": 681,
+      "sphere": -5,
+      "cylinder": -5,
+      "sum": "151"
+    },
+    {
+      "id": 682,
+      "sphere": -5.25,
+      "cylinder": -5,
+      "sum": "154"
+    },
+    {
+      "id": 683,
+      "sphere": -5.5,
+      "cylinder": -5,
+      "sum": "157"
+    },
+    {
+      "id": 684,
+      "sphere": -5.75,
+      "cylinder": -5,
+      "sum": "160"
+    },
+    {
+      "id": 685,
+      "sphere": -6,
+      "cylinder": -5,
+      "sum": "163"
+    },
+    {
+      "id": 686,
+      "sphere": -6.25,
+      "cylinder": -5,
+      "sum": "166"
+    },
+    {
+      "id": 687,
+      "sphere": -6.5,
+      "cylinder": -5,
+      "sum": "169"
+    },
+    {
+      "id": 688,
+      "sphere": -6.75,
+      "cylinder": -5,
+      "sum": "172"
+    },
+    {
+      "id": 689,
+      "sphere": -7,
+      "cylinder": -5,
+      "sum": "175"
+    },
+    {
+      "id": 690,
+      "sphere": -7.25,
+      "cylinder": -5,
+      "sum": "177"
+    },
+    {
+      "id": 691,
+      "sphere": -7.5,
+      "cylinder": -5,
+      "sum": "180"
+    },
+    {
+      "id": 692,
+      "sphere": -7.75,
+      "cylinder": -5,
+      "sum": "183"
+    },
+    {
+      "id": 693,
+      "sphere": -8,
+      "cylinder": -5,
+      "sum": "186"
+    }
+   ]
